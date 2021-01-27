@@ -1,0 +1,83 @@
+[09-Sep-2020 08:13:09 UTC] PHP Deprecated:  Directive 'track_errors' is deprecated in Unknown on line 0
+[09-Sep-2020 08:13:38 UTC] PHP Deprecated:  Directive 'track_errors' is deprecated in Unknown on line 0
+[09-Sep-2020 08:13:47 UTC] PHP Deprecated:  Directive 'track_errors' is deprecated in Unknown on line 0
+[09-Sep-2020 08:13:48 UTC] PHP Deprecated:  Directive 'track_errors' is deprecated in Unknown on line 0
+[27-Jan-2021 06:36:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_bz2.dll' (tried: C:/xampp/php/ext\php_bz2.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_bz2.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_curl.dll' (tried: C:/xampp/php/ext\php_curl.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_curl.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mbstring.dll' (tried: C:/xampp/php/ext\php_mbstring.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_mbstring.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_gd2.dll' (tried: C:/xampp/php/ext\php_gd2.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_gd2.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:/xampp/php/ext\php_mysqli.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_mysqli.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_mysql.dll' (tried: C:/xampp/php/ext\php_pdo_mysql.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_pdo_mysql.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_sockets.dll' (tried: C:/xampp/php/ext\php_sockets.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_sockets.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_ldap.dll' (tried: C:/xampp/php/ext\php_ldap.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_ldap.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_openssl.dll' (tried: C:/xampp/php/ext\php_openssl.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_openssl.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_bz2.dll' (tried: C:/xampp/php/ext\php_bz2.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_bz2.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_curl.dll' (tried: C:/xampp/php/ext\php_curl.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_curl.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mbstring.dll' (tried: C:/xampp/php/ext\php_mbstring.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_mbstring.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_gd2.dll' (tried: C:/xampp/php/ext\php_gd2.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_gd2.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:/xampp/php/ext\php_mysqli.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_mysqli.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_mysql.dll' (tried: C:/xampp/php/ext\php_pdo_mysql.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_pdo_mysql.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_sockets.dll' (tried: C:/xampp/php/ext\php_sockets.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_sockets.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_ldap.dll' (tried: C:/xampp/php/ext\php_ldap.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_ldap.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:36:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_openssl.dll' (tried: C:/xampp/php/ext\php_openssl.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_openssl.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:37:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_bz2.dll' (tried: C:/xampp/php/ext\php_bz2.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_bz2.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:37:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_curl.dll' (tried: C:/xampp/php/ext\php_curl.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_curl.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:37:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mbstring.dll' (tried: C:/xampp/php/ext\php_mbstring.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_mbstring.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:37:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_gd2.dll' (tried: C:/xampp/php/ext\php_gd2.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_gd2.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:37:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:/xampp/php/ext\php_mysqli.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_mysqli.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:37:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_mysql.dll' (tried: C:/xampp/php/ext\php_pdo_mysql.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_pdo_mysql.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:37:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_sockets.dll' (tried: C:/xampp/php/ext\php_sockets.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_sockets.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:37:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_ldap.dll' (tried: C:/xampp/php/ext\php_ldap.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_ldap.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:37:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_openssl.dll' (tried: C:/xampp/php/ext\php_openssl.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_openssl.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:47:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_bz2.dll' (tried: C:/xampp/php/ext\php_bz2.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_bz2.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:47:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_curl.dll' (tried: C:/xampp/php/ext\php_curl.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_curl.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:47:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mbstring.dll' (tried: C:/xampp/php/ext\php_mbstring.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_mbstring.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:47:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_gd2.dll' (tried: C:/xampp/php/ext\php_gd2.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_gd2.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:47:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:/xampp/php/ext\php_mysqli.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_mysqli.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:47:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_mysql.dll' (tried: C:/xampp/php/ext\php_pdo_mysql.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_pdo_mysql.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:47:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_sockets.dll' (tried: C:/xampp/php/ext\php_sockets.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_sockets.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:47:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_ldap.dll' (tried: C:/xampp/php/ext\php_ldap.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_ldap.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 06:47:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_openssl.dll' (tried: C:/xampp/php/ext\php_openssl.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_openssl.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 08:35:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_bz2.dll' (tried: C:/xampp/php/ext\php_bz2.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_bz2.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 08:35:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_curl.dll' (tried: C:/xampp/php/ext\php_curl.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_curl.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 08:35:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mbstring.dll' (tried: C:/xampp/php/ext\php_mbstring.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_mbstring.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 08:35:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_gd2.dll' (tried: C:/xampp/php/ext\php_gd2.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_gd2.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 08:35:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:/xampp/php/ext\php_mysqli.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_mysqli.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 08:35:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_mysql.dll' (tried: C:/xampp/php/ext\php_pdo_mysql.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_pdo_mysql.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 08:35:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_sockets.dll' (tried: C:/xampp/php/ext\php_sockets.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_sockets.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 08:35:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_ldap.dll' (tried: C:/xampp/php/ext\php_ldap.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_ldap.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 08:35:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_openssl.dll' (tried: C:/xampp/php/ext\php_openssl.dll (找不到指定的模块。), C:/xampp/php/ext\php_php_openssl.dll.dll (找不到指定的模块。)) in Unknown on line 0
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Warning:  Creating default object from empty value in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 12
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$productCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 124
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$projectCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 125
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$storyCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 137
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$projectCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 140
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$productCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 141
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$productCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 145
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$productCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 182
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$projectCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 183
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$storyCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 194
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$projectCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 195
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$storyCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 214
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$projectCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 218
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$storyCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 245
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$productCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 249
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$productCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 381
+[27-Jan-2021 16:37:07 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$projectCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 382
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Warning:  Creating default object from empty value in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 12
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$productCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 124
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$projectCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 125
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$storyCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 137
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$projectCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 140
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$productCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 141
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$productCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 145
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$productCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 182
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$projectCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 183
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$storyCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 194
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$projectCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 195
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$storyCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 214
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$projectCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 218
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$storyCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 245
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$productCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 249
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$productCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 381
+[27-Jan-2021 16:37:13 Asia/Shanghai] PHP Notice:  Undefined property: stdClass::$projectCommon in C:\phpstudy_pro\WWW\zentao\module\common\lang\zh-cn.php on line 382

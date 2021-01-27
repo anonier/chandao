@@ -1,0 +1,14 @@
+# system cron. 
+#min   hour day month week  command. 
+0      1    *   *     *     C:\xampp\zentao\bin\dailyreminder.bat # daily reminder.           
+1      1    *   *     *     C:\xampp\zentao\bin\backup.bat        # backup database and file. 
+1      23   *   *     *     C:\xampp\zentao\bin\computeburn.bat   # compute burndown chart.   
+1-59/2 *    *   *     *     C:\xampp\zentao\bin\syncsvn.bat       # sync subversion.          
+1-59/2 *    *   *     *     C:\xampp\zentao\bin\syncgit.bat       # sync git.                 
+1-59/5 *    *   *     *     C:\xampp\zentao\bin\sendmail.bat      # async send mail.          
+1-59/5 *    *   *     *     C:\xampp\zentao\bin\sendwebhook.bat   # async send webhook.       
+1      1    *   *     *     C:\xampp\zentao\bin\createcycle.bat   # create cycle todo.        
+30     1    *   *     *     C:\xampp\zentao\bin\deletelog.bat     # delete log.               
+1      0    *   *     *     C:\xampp\zentao\bin\initqueue.bat     # init queue.               
+1-59/5 *    *   *     *     C:\xampp\zentao\bin\checkbuildstatus.bat   # check build status.  
+1-59/5 *    *   *     *     C:\xampp\zentao\bin\execcompile.bat        # execute compile.     
