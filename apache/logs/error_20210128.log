@@ -1,0 +1,17 @@
+[Thu Jan 28 09:03:09.562242 2021] [ssl:warn] [pid 3804:tid 596] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 28 09:03:12.798281 2021] [mpm_winnt:notice] [pid 3804:tid 596] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g configured -- resuming normal operations
+[Thu Jan 28 09:03:12.798281 2021] [mpm_winnt:notice] [pid 3804:tid 596] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Thu Jan 28 09:03:12.798281 2021] [core:notice] [pid 3804:tid 596] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Jan 28 09:03:12.829565 2021] [mpm_winnt:notice] [pid 3804:tid 596] AH00418: Parent: Created child process 7732
+[Thu Jan 28 09:03:13.604571 2021] [ssl:warn] [pid 7732:tid 576] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 28 09:03:13.858486 2021] [mpm_winnt:notice] [pid 7732:tid 576] AH00354: Child: Starting 150 worker threads.
+[Thu Jan 28 09:11:29.258294 2021] [mpm_winnt:notice] [pid 3804:tid 596] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 28 09:11:31.305317 2021] [mpm_winnt:notice] [pid 7732:tid 576] AH00364: Child: All worker threads have exited.
+[Thu Jan 28 09:11:31.414040 2021] [mpm_winnt:notice] [pid 3804:tid 596] AH00430: Parent: Child process 7732 exited successfully.
+[Thu Jan 28 09:12:01.851970 2021] [ssl:warn] [pid 3628:tid 428] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 28 09:12:04.936401 2021] [mpm_winnt:notice] [pid 3628:tid 428] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g configured -- resuming normal operations
+[Thu Jan 28 09:12:04.936401 2021] [mpm_winnt:notice] [pid 3628:tid 428] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Thu Jan 28 09:12:04.936401 2021] [core:notice] [pid 3628:tid 428] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Jan 28 09:12:04.958529 2021] [mpm_winnt:notice] [pid 3628:tid 428] AH00418: Parent: Created child process 7192
+[Thu Jan 28 09:12:05.738564 2021] [ssl:warn] [pid 7192:tid 508] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 28 09:12:05.992519 2021] [mpm_winnt:notice] [pid 7192:tid 508] AH00354: Child: Starting 150 worker threads.
