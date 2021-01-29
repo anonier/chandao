@@ -1,1 +1,0 @@
-{ "AutoChangePort" : true, "LastRunTime" : 4.4223742489513890E+004, "language" : "zh_cn", "apache" : { "port" : 80 }, "mysql" : { "port" : 3306 }, "EnableApacheAuth" : false, "ApacheAuthAccount" : "zentao", "ApacheAuthPassword" : "161851", "SkipCheckVC" : false, "xxd" : { "processID" : 0 } }
